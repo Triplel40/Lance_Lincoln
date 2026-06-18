@@ -1,100 +1,115 @@
-# Linear_Monitor
-Page for Twilio Terms
+# Privacy Policy
 
-Privacy Policy
+**Effective Date:** June 18, 2026
 
-Effective Date: June 8, 2026
+This Privacy Policy describes how Lance Lincoln collects and uses information for the purpose of sending SMS notifications related to irrigation equipment operation and monitoring.
 
-This Privacy Policy describes how the Linear Irrigation Monitor SMS Notification Service collects and uses information.
+## Information Collected
 
-Information Collected
+Phone numbers are collected and stored solely for the purpose of sending SMS notifications regarding irrigation equipment status and operation.
 
-The service collects and stores phone numbers for the sole purpose of sending SMS notifications related to irrigation equipment operation and monitoring.
+## Use of Information
 
-Use of Information
+Phone numbers are used only to deliver SMS notifications, including:
 
-Phone numbers are used only to deliver automated SMS notifications, including:
+* Irrigation equipment start notifications
+* Irrigation equipment stop notifications
+* Equipment status notifications
+* Equipment monitoring alerts
 
-    Irrigation system start notifications
-    Irrigation system stop notifications
-    System status notifications
-    Equipment monitoring alerts
+## Information Sharing
 
-Information Sharing
+Phone numbers and personal information are not sold, rented, or shared with third parties for marketing purposes.
 
-Phone numbers and personal information are not sold, rented, shared, or disclosed to third parties for marketing purposes.
+Information may be disclosed only when required by law or as necessary to provide SMS message delivery through authorized service providers.
 
-Information may be disclosed only when required by law or necessary to operate the SMS delivery service through authorized providers.
-
-Data Security
+## Data Security
 
 Reasonable measures are taken to protect stored information and prevent unauthorized access.
 
-Message Frequency
+## Message Frequency
 
-Message frequency varies depending on equipment operation and system events.
+Message frequency varies depending on equipment operation and monitoring events.
 
-Message and Data Rates
+## Message and Data Rates
 
-Standard message and data rates may apply according to the recipient’s wireless carrier plan.
+Standard message and data rates may apply according to the recipient's wireless carrier plan.
 
-Contact Information
+## Consent
 
-For questions regarding this Privacy Policy or the SMS notification service, contact the system administrator.
+Recipients must provide consent before receiving SMS notifications.
 
-Changes to This Policy
+## Opt-Out
 
-This Privacy Policy may be updated periodically. Continued use of the service constitutes acceptance of any updates.
+Recipients may opt out at any time by replying STOP to any message.
 
+## Contact Information
 
+Questions regarding this Privacy Policy may be directed to Lance Lincoln.
 
+## Changes to This Policy
 
+This Privacy Policy may be updated periodically. Continued participation in the notification program constitutes acceptance of any revisions.
 
-Terms and Conditions
+---
 
-Effective Date: June 8, 2026
+# Terms and Conditions
 
-By receiving SMS notifications from the Linear Irrigation Monitor SMS Notification Service, you agree to these Terms and Conditions.
+**Effective Date:** June 18, 2026
 
-Service Description
+By receiving SMS notifications from Lance Lincoln regarding irrigation equipment operation and monitoring, you agree to these Terms and Conditions.
 
-This service provides automated SMS notifications regarding irrigation equipment operation and monitoring.
+## Service Description
+
+SMS notifications are used to provide information regarding irrigation equipment operation and monitoring.
 
 Messages may include:
 
-    Equipment start notifications
-    Equipment stop notifications
-    System status notifications
-    Equipment monitoring alerts
+* Equipment start notifications
+* Equipment stop notifications
+* Equipment status notifications
+* Equipment monitoring alerts
 
-Consent
+## Consent
 
-Recipients must provide consent before receiving SMS notifications from this service.
+Recipients must provide consent before receiving SMS notifications.
 
-Message Frequency
+## Message Frequency
 
 Message frequency varies depending on equipment activity and operating conditions.
 
-Message and Data Rates
+## Message and Data Rates
 
-Standard message and data rates may apply based on your wireless carrier plan.
+Standard message and data rates may apply based on the recipient's wireless carrier plan.
 
-Opt-Out
+## Opt-Out
 
-Recipients may stop receiving messages at any time by notifying the system administrator and requesting removal from the notification list.
+Recipients may stop receiving messages at any time by replying STOP to any SMS message.
 
-Service Availability
+Recipients may rejoin the notification list by contacting Lance Lincoln and providing consent again.
 
-SMS delivery is dependent on third-party telecommunications providers and is not guaranteed. Delays or failures in message delivery may occur.
+## Service Availability
 
-Limitation of Liability
+SMS delivery depends on third-party telecommunications providers and is not guaranteed. Delays or failures in message delivery may occur.
 
-The service is provided on an “as-is” basis without warranties of any kind. The operator shall not be liable for damages resulting from delayed, failed, or undelivered notifications.
+## Limitation of Liability
 
-Changes to Terms
+Notifications are provided on an "as-is" basis. Lance Lincoln is not responsible for losses, damages, or expenses resulting from delayed, failed, or undelivered notifications.
 
-These Terms and Conditions may be updated periodically. Continued participation in the service constitutes acceptance of any revised terms.
+## Changes to Terms
 
-Contact Information
+These Terms and Conditions may be updated periodically. Continued participation in the notification program constitutes acceptance of any revised terms.
 
-Questions regarding these Terms and Conditions should be directed to the system administrator.
+## Contact Information
+
+Questions regarding these Terms and Conditions may be directed to Lance Lincoln.
+
+### SMS Disclosure
+
+By providing consent to receive SMS notifications:
+
+* You agree to receive automated SMS notifications regarding irrigation equipment operation and monitoring.
+* Message frequency varies.
+* Message and data rates may apply.
+* Reply STOP to opt out.
+* Reply HELP for assistance.
