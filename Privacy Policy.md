@@ -1,5 +1,5 @@
 # Privacy Policy
-
+ 
 **Effective Date:** June 18, 2026
 
 This Privacy Policy describes how Lance Lincoln collects and uses information for the purpose of sending SMS notifications related to irrigation equipment operation and monitoring.
