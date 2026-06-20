@@ -47,7 +47,7 @@ These Terms and Conditions may be updated periodically. Continued participation 
 
 ## Contact Information
 
-Questions regarding these Terms and Conditions may be directed to Lance Lincoln.
+Questions regarding these Terms and Conditions may be directed to Lance Lincoln at lincoln.lance@yahoo.com
 
 ### SMS Disclosure
 
