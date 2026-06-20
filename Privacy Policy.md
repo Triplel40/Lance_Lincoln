@@ -45,7 +45,7 @@ Recipients may opt out at any time by replying STOP to any message.
 
 ## Contact Information
 
-Questions regarding this Privacy Policy may be directed to Lance Lincoln.
+Questions regarding this Privacy Policy may be directed to Lance Lincoln at lincoln.lance@yahoo.com
 
 ## Changes to This Policy
 
